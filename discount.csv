@@ -1,0 +1,5 @@
+OfferCode,Limited,LimitVol,BaseProductCode,MinVolumeCriteria,OfferType,OfferOnProduct,OfferProductVolume,DiscountPercentage,NewPrice
+BOGO,FALSE,,CF1,1,Discount,CF1,1,100,
+APPL,FALSE,,AP1,3,PriceDrop,AP1,,,4.5
+CHMK,TRUE,1,CH1,1,Discount,MK1,1,100,
+APOM,FALSE,,OM1,1,Discount,AP1,,50,
